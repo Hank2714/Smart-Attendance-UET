@@ -1,0 +1,8 @@
+employee_id,student_id,full_name,email,phone,hire_date,end_date,active
+1,22026102,Nguyễn Huy Anh,,,2025-10-11,,1
+2,22026136,Phạm Khắc Khương Duy,,,2025-10-13,,1
+3,22026165,Phạm Trung Kiên,,,2025-10-13,,1
+4,22026106,Nguyễn Văn Hiệp,22026106@vnu.edu.vn,,2025-10-13,,1
+5,22026181,Nguyễn Đình Vinh,,,2025-10-13,,1
+6,22026103,Phạm Tiến Mạnh,,,2025-10-13,,1
+7,19013663,Nguyễn Huy Chiến,,,2025-10-13,2025-12-17,0

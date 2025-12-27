@@ -1,0 +1,6 @@
+employee_id,student_id,full_name,present,late,absent,total_days
+1,20250001,E1 Full Month,17,2,8,24
+2,20250002,E2 Join Mid Month,8,3,16,15
+3,20250003,E3 Leave Mid Month,11,1,15,15
+4,20250004,E4 Not Started Yet,0,0,27,0
+5,20250005,E5 Already Left,0,0,27,0
